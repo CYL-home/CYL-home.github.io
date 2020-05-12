@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Adobe全家桶直装版</title>
+    <url>/2020/05/13/adobe-quan-jia-tong-zhi-zhuang-ban/</url>
+    <content><![CDATA[<figure class="highlight plain"><table><tbody><tr><td class="code"><pre><span class="line">title: Adobe全家桶直装版</span><br><span class="line">date: 2020-05-13 02:51:00</span><br><span class="line">author: 一龙</span><br><span class="line">img: https://cdn.jsdelivr.net/gh/CYL-home001/CDN/Adobe-tuijian/Adobe博客.webp</span><br><span class="line">top: true</span><br><span class="line">cover: false</span><br><span class="line">#coverImg: #/images/1.jpg</span><br><span class="line">#password: #8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92</span><br><span class="line">toc: false</span><br><span class="line">mathjax: false</span><br><span class="line">summary: Adobe全家桶直装稳定版</span><br><span class="line">categories: Adobe全家桶</span><br><span class="line">tags: Adobe全家桶</span><br><span class="line">keywords: Adobe全家桶,ps,pr,Adobe Acrobat DC,Adobe After Effects,Adobe Animate,Adobe Audition,Adobe Bridge,Adobe Character Animator,Adobe Creative Cloud,Adobe Dimension,Adobe Dreamweaver,Adobe Fresco,Adobe Illustrator,Adobe InCopy,Adobe InDesign,Adobe Lightroom Classic,Adobe Media Encoder,Adobe Photoshop,Adobe Prelude,Adobe Premiere Pro,Adobe XD,Photoshop Elements,Premiere Elements</span><br><span class="line">reprintPolicy: cc_by_nc</span><br></pre></td></tr></tbody></table></figure>
+
+
+
+<p><img src="https://cdn.jsdelivr.net/gh/CYL-home001/CDN/Adobe-tuijian/Adobe%E5%8D%9A%E5%AE%A2.webp" alt=""></p>
+<center> Adobe全家桶 </center>
+
+<p>​                                                                                            <a href="https://cyl-home.github.io/adobe/">下载</a></p>
+<p>​                                   <code>本站所有资源来自互联网，仅供免费下载使用及学习，不得用于任何商业用途。</code></p>
+<script>
+        document.querySelectorAll('.github-emoji')
+          .forEach(el => {
+            if (!el.dataset.src) { return; }
+            const img = document.createElement('img');
+            img.style = 'display:none !important;';
+            img.src = el.dataset.src;
+            img.addEventListener('error', () => {
+              img.remove();
+              el.style.color = 'inherit';
+              el.style.backgroundImage = 'none';
+              el.style.background = 'none';
+            });
+            img.addEventListener('load', () => {
+              img.remove();
+            });
+            document.body.appendChild(img);
+          });
+      </script>]]></content>
+  </entry>
+  <entry>
     <title>page</title>
     <url>/2020/04/26/page/</url>
     <content><![CDATA[<script>
